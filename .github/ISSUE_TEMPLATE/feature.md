@@ -1,3 +1,5 @@
+yaml
+
 ---
 name: Feature Request
 about: Track work on a new feature or task
